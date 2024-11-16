@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#B3CED1D1"
+    tools:context=".UpdateContactActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Update Contact"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:fontFamily="serif-monospace"
+        android:textColor="#000000"
+        android:backgroundTint="#B6D5ED"
+        android:padding="25dp"
+        android:gravity="center"
+        android:background="#FFFFFF"/>
+
+    <EditText
+        android:id="@+id/idEdtFirstName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="10dp"
+        android:layout_marginTop="100dp"
+        android:hint="Enter First Name" />
+
+    <EditText
+        android:id="@+id/idEdtLastName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:hint="Enter Last Name" />
+
+    <EditText
+        android:id="@+id/idEdtPhoneNumber"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:hint="Enter Phone Number" />
+
+    <EditText
+        android:id="@+id/idEdtAddress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:hint="Enter Address" />
+
+    <Button
+        android:id="@+id/idBtnUpdateContact"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:layout_marginHorizontal="100dp"
+        android:textSize="18sp"
+        android:text="Update Contact"
+        android:backgroundTint="#6200EE"
+        android:textColor="#FFFFFF"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/idBtnDeleteContact"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="100dp"
+        android:textSize="18sp"
+        android:text="Delete Contact"
+        android:backgroundTint="#03DAC5"
+        android:textColor="#594E4E"
+        android:textAllCaps="false" />
+
+</LinearLayout>
