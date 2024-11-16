@@ -2,7 +2,7 @@ CSI460 Midterm – Phonebook Application
 
 A simple Android application for managing a phonebook. It uses SQLite as the database to perform CRUD operations for contact management. Developed using Java in Android Studio. You can add contacts, view contacts, edit a contact, and delete a contact.
 
-
+=========================================================================================
 
 1. Starting your phone book you are prompted to enter a new contact or to view existing contacts
 
@@ -56,4 +56,28 @@ A simple Android application for managing a phonebook. It uses SQLite as the dat
 
 ![13](https://github.com/user-attachments/assets/4af48717-8268-42b5-b773-13c624e63eea)
 
+
+=========================================================================================
+
+MIT License
+
+Copyright (c) [year] [fullname]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
