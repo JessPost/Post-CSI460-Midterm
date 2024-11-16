@@ -34,3 +34,20 @@ Reading all contacts and with the updated contact information
 
 ![9](https://github.com/user-attachments/assets/d2cd9463-6da1-4971-aaf6-65fd3b731bc9)
 
+Adding a contact to delete
+
+![10](https://github.com/user-attachments/assets/49d7a072-5635-4bfe-857f-023538b2d3a6)
+
+Reading the added contact to delete
+
+![11](https://github.com/user-attachments/assets/4b4c45b7-0583-4845-8e01-c78ae40a2863)
+
+Going to the update to delete contact
+
+![12](https://github.com/user-attachments/assets/f3d1a874-643a-4175-a424-f26c4099d28c)
+
+Contact was deleted from phonebook
+
+![13](https://github.com/user-attachments/assets/4af48717-8268-42b5-b773-13c624e63eea)
+
+
